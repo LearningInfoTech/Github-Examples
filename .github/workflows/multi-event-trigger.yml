@@ -1,3 +1,5 @@
+name: 'multi-event-trigger.yml'
+
 on:
   push:
     branches:
