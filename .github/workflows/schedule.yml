@@ -1,3 +1,5 @@
+name: 'schedule.yml'
+
 on:
   schedule:
     - cron: '*/2 * * * *'
